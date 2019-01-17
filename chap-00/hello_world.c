@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-   printf("Merhaba KTU CENG");
+   printf("Hello KTU, I wanto to be CENG");
    return 0;
 }
