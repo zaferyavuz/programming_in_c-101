@@ -1,3 +1,7 @@
+/*
+  pointer  -> pointer --> variable
+*/
+
 #include <stdio.h>
  
 int main () {
