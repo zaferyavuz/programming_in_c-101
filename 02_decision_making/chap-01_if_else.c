@@ -14,7 +14,7 @@ int main()
 
             ort=0;
 
-                ort=(a1*0.3+a2*0.2+f*0.5)/3;
+                ort=(a1*0.3+a2*0.2+f*0.5);
 
 
                     printf("girilen 3 sinavin ortalamasi=%.2f",ort);
