@@ -1,1 +1,1 @@
-# programming_in_c-101
+Bu depo [şuraya](https://github.com/zyavuz610/learnC_inKTU) taşınmıştır
